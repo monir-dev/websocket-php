@@ -1,0 +1,14 @@
+{
+    "name": "monir/websocket",
+    "description": "Php websocket",
+    "authors": [
+        {
+            "name": "Monir Hossain",
+            "email": "echomonir@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cboden/ratchet": "dev-master"
+    }
+}
